@@ -1,3 +1,7 @@
+// Basic Linked List example with string data at nodes
+
+// Written by Amir K. Afshar
+
 #include <iostream>
 #include <string>
 using namespace std;
