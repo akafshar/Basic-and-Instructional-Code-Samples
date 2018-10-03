@@ -1,6 +1,5 @@
-// Amir K. Afshar
-// 26 September 2018
 // Program that only accepts binary strings representing powers of 4
+// Written by Amir K. Afshar
 
 #include <iostream>
 #include <string>
