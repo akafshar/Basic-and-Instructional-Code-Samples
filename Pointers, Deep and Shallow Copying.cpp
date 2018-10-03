@@ -22,7 +22,7 @@ int main()
 
 	cout << endl << endl;
 
-	int *B;										// Declare pointer variable A of type int
+	int *B;										// Declare pointer variable B of type int
 	B = new int[5];								// Allocate 5 contiguous (and currently empty or whose contents are unknown)
 												// memory locations to which B point
 
