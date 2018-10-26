@@ -13,7 +13,7 @@ void print(vector <int> x[])	// Print function that takes a vector of integers a
 	}
 }
 
-int main()
+void main()
 {
 	vector <int> x[10];			// Declare a vector of 10 integers
 	
